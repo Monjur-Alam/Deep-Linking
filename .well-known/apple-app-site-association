@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "26FXM88PFM.co.quore.quorellc",
+        "paths": [ "/profile", "/settings" ]
+      }
+    ]
+  }
+}
+
